@@ -1,0 +1,10 @@
+{
+  "lang": "en",
+  "start_url": ".",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#6bbff1",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "description": "Digital technologies unite people."
+}
